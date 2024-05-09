@@ -76,8 +76,7 @@
 
 | Вход           | Изход    |
 | :------------- | :------- |
-|`n = 3` 
-`k = 2` | `3`      |
+|`n = 3` `k = 2` | `3`      |
 |`n = 5` `k = 3` | `10`     |
 
 ## Links
@@ -89,3 +88,7 @@
 - [Combinations without Repetitions](https://github.com/cathy-09/C-Sharp-Console.App/tree/main/Combinations%20without%20Repetitions)
 - [Combinations with Repetitions](https://github.com/cathy-09/C-Sharp-Console.App/tree/main/Combinations%20with%20Repetitions)
 - [Binom](https://github.com/cathy-09/C-Sharp-Console.App/tree/main/Binom)
+
+  ## Authors
+
+- [@cathy-09](https://github.com/cathy-09)
