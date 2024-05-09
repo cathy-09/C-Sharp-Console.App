@@ -1,6 +1,6 @@
 # C-Sharp-Console.App
 
-Упражнениe: Комбинаторни алгоритми
+# C-Sharp-Console.App
 
 ## Terms
 ### Пермутация без повторения
