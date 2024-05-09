@@ -89,6 +89,8 @@
 - [Combinations with Repetitions](https://github.com/cathy-09/C-Sharp-Console.App/tree/main/Combinations%20with%20Repetitions)
 - [Binom](https://github.com/cathy-09/C-Sharp-Console.App/tree/main/Binom)
 
-  ## Authors
+## Authors
 
 - [@cathy-09](https://github.com/cathy-09)
+
+
