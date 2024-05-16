@@ -83,6 +83,14 @@
 |`n = 3` `k = 2` | `3`      |
 |`n = 5` `k = 3` | `10`     |
 
+
+# Упражнениe: Двоично дърво
+
+## Terms
+### Двоично дърво в ред
+![image](https://github.com/cathy-09/C-Sharp-Console.App/assets/158329994/3b0e9bb5-2084-4248-b72a-ecebb94f13dc)
+
+
 ## Links
 
 - [Permutations without Repetitions](https://github.com/cathy-09/C-Sharp-Console.App/tree/main/Permutations%20without%20Repetitions)
@@ -92,6 +100,7 @@
 - [Combinations without Repetitions](https://github.com/cathy-09/C-Sharp-Console.App/tree/main/Combinations%20without%20Repetitions)
 - [Combinations with Repetitions](https://github.com/cathy-09/C-Sharp-Console.App/tree/main/Combinations%20with%20Repetitions)
 - [Binom](https://github.com/cathy-09/C-Sharp-Console.App/tree/main/Binom)
+- [Binary Tree](https://github.com/cathy-09/C-Sharp-Console.App/tree/main/Binary%20Tree)
 
 ## Authors
 
