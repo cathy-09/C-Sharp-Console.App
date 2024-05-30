@@ -95,6 +95,12 @@
 ![image](https://github.com/cathy-09/C-Sharp-Console.App/assets/158329994/3b0e9bb5-2084-4248-b72a-ecebb94f13dc)
 
 
+# Упражнениe: Речници
+
+## Terms
+### Речници
+
+
 ## Links
 
 - [Permutations without Repetitions](https://github.com/cathy-09/C-Sharp-Console.App/tree/main/Permutations%20without%20Repetitions)
