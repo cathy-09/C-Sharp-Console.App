@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\Inf-modul 2 Katerina 11a\Arrays_Birthday\Arrays_Birthday\obj\Debug\net6.0\Arrays_Birthday.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Inf-modul 2 Katerina 11a\Arrays_Birthday\Arrays_Birthday\obj\Debug\net6.0\Arrays_Birthday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Inf-modul 2 Katerina 11a\Arrays_Birthday\Arrays_Birthday\obj\Debug\net6.0\Arrays_Birthday.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Inf-modul 2 Katerina 11a\Arrays_Birthday\Arrays_Birthday\obj\Debug\net6.0\Arrays_Birthday.AssemblyInfo.cs
+C:\Users\Student\Documents\Inf-modul 2 Katerina 11a\Arrays_Birthday\Arrays_Birthday\obj\Debug\net6.0\Arrays_Birthday.csproj.CoreCompileInputs.cache
