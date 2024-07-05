@@ -6,10 +6,6 @@
 
 Наслади се на речниците!
 
-This sentence introduces my wiki page.
-
-[[_TOC_]]
-
 # Упражнениe: Комбинаторни алгоритми
 
 ## Terms
